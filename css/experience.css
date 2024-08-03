@@ -1,0 +1,23 @@
+/* Experience Section */
+.experience {
+  padding: 60px 0;
+  text-align: center;
+}
+
+.experience h2 {
+  font-size: 36px;
+  margin-bottom: 20px;
+}
+
+.experience-item {
+  margin-bottom: 40px;
+}
+
+.experience-item h3 {
+  font-size: 24px;
+  margin-bottom: 10px;
+}
+
+.experience-item p {
+  font-size: 18px;
+}

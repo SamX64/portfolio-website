@@ -1,0 +1,19 @@
+/* Resume Section */
+.resume {
+  padding: 60px 0;
+  text-align: center;
+}
+
+.resume h2 {
+  font-size: 36px;
+  margin-bottom: 20px;
+}
+
+.resume a {
+  color: #00bcd4;
+  text-decoration: none;
+}
+
+.resume a:hover {
+  text-decoration: underline;
+}
